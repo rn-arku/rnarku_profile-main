@@ -1,0 +1,55 @@
+---
+title: "Robert Nutifafa Arku"
+description: "Graduate Student (PhD), University of Toronto"
+page-layout: full
+about:
+  template: trestles
+  image: profile.jpeg
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/arkunutifafa 
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.ca/citations?user=IJhZDT4AAAAJ&hl=en
+    - icon: book-fill
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Robert-Arku
+    - icon: book-half
+      text: ORCID
+      href: https://orcid.org/0000-0002-2018-886X 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://ca.linkedin.com/in/robert-nutifafa-arku 
+    - icon: github
+      text: Github
+      href: https://github.com/rn-arku 
+---
+
+I am pursuing doctoral studies at the [Department of Geography and Planning](https://www.geography.utoronto.ca/) (affiliated with the [Spatial Analysis of Urban Systems Lab](http://sausy.ca/)), University of Toronto, Canada. I love reading, watching sports and listening to music (Note: The bass guitar is the greatest of all musical instruments). My fave kind of movies: COMEDY! And no, don't tell me your dog doesn't bite - I still won't pet it.
+
+# Education
+
+University of Toronto, Toronto \| Ontario, Canada \| PhD Geography (ongoing)
+
+University of Waterloo, Waterloo \| Ontario, Canada \| MA Urban Planning
+
+Kwame Nkrumah University of Science and Technology (KNUST), Kumasi \| Ashanti Region, Ghana \| BSc Land Economy
+
+# Experience
+
+Research and Teaching Assistant \| University of Toronto \| September 2021 - Present
+
+Research and Teaching Assistant \| University of Waterloo \| September 2018 - August 2021
+
+Research Assistant \| Toronto Metropolitan University (formally Ryerson University, renamed in 2022) \| February 2021 - July 2021
+
+Summer Student (Intern) \| Municipal Property Assessment Corporation (MPAC), Pickering \| April 2019 - August 2019
+
+Research and Teaching Assistant \| KNUST \| September 2017 - August 2018
+
+Intern \| Lands Commission, Accra, Ghana \| May - August (2015 & 2016)
+
+Editor (Volunteer) \| [SAASEPEDIA](https://saasepedia.org/) \| 2019 - Present

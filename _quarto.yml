@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  #title: "Robert Nutifafa Arku"
+  navbar:
+    right:
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/arkunutifafa 
+      - icon: mortarboard-fill
+        aria-label: scholar
+        href: https://scholar.google.ca/citations?user=IJhZDT4AAAAJ&hl=en
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: flatly
+    fontsize: 0.9em
+    css: styles.css
+    toc: true
+
+editor: visual
+
